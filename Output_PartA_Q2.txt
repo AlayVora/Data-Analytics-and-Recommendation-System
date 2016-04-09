@@ -1,0 +1,7 @@
+Part A 
+Question 2
+---------------------------------------------------------------------------
+Accuracy for Decision Tree Algorithm is : 96.1038961038961%
+
+Accuracy for Naive Bayes Algorithm is : 81.818181818182%
+
