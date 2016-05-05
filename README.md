@@ -1,6 +1,6 @@
 ##Please see the [attached PDF](https://github.com/AlayVora/Data-Analytics-and-Recommendation-System/b/master/HW32016Recommend.pdf) for the Questions
------------------------------------------------
-##Prerequisites - Please install Spark on ypur local machine
+
+##Prerequisites - Please install Spark on your local machine
 
 ###Part A - Question 1: 
 Run file using following command - :load Q1.txt
@@ -10,7 +10,7 @@ For this Question there are two files
 1 - DecisionTree.scala
 2 - NaiveBayes.scala
 
-Run the files by using foloowing command					  
+Run the files by using foloowing command
 :load <FileName>
 File1 - :load DecisionTree.scala
 File2 - :load DecisionTree.scala
