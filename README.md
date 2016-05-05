@@ -1,4 +1,5 @@
-#Please see the attached PDF for the Questions - [Questions](https://github.com/AlayVora/Data-Analytics-and-Recommendation-System/b/master/HW32016Recommend.pdf)
+##Please see the [attached PDF](https://github.com/AlayVora/Data-Analytics-and-Recommendation-System/b/master/HW32016Recommend.pdf) for the Questions
+-----------------------------------------------
 ##Prerequisites - Please install Spark on ypur local machine
 
 ###Part A - Question 1: 
