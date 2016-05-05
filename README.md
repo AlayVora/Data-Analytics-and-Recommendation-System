@@ -10,7 +10,7 @@ For this Question there are two files
 1 - DecisionTree.scala  
 2 - NaiveBayes.scala  
 
-Run the files by using foloowing command  
+####Run the files by using following command  
 + :load "FileName"  
 + File1 - :load DecisionTree.scala  
 + File2 - :load DecisionTree.scala  
