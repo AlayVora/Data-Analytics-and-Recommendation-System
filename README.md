@@ -3,7 +3,7 @@
 ##Prerequisites - Please install Spark on your local machine
 
 ###Part A - Question 1:   
-+Run file using following command - :load Q1.txt
+Run file using following command - :load Q1.txt
 
 ###Part A - Question 2:  
 For this Question there are two files  
@@ -11,7 +11,7 @@ For this Question there are two files
 2 - NaiveBayes.scala  
 
 Run the files by using foloowing command  
-:load <FileName>  
+:load "FileName"  
 File1 - :load DecisionTree.scala  
 File2 - :load DecisionTree.scala  
 	  
